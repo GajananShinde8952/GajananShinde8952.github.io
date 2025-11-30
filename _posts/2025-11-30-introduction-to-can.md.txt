@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Introduction to CAN (Controller Area Network)"
+date: 2025-11-30
+categories: automotive can protocol
+---
+
+## 🚗 Introduction
+This post explains the basics of CAN protocol used in automotive applications.
+
+## 📌 What is CAN?
+CAN (Controller Area Network) is a communication protocol designed for automotive ECUs.
+
+## 🔧 Why CAN is used?
+- Fast communication  
+- Error handling  
+- Multi-master support  
+
+## 📝 Conclusion
+CAN is the backbone of automotive communication systems.
